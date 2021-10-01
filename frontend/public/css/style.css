@@ -559,7 +559,7 @@ a.button-w3ls:hover {
 }
 
 .banner-top1 {
-    background: url(../images/1.jpg) no-repeat bottom;
+    background: url(../images/back1.jpg) no-repeat bottom;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -568,7 +568,7 @@ a.button-w3ls:hover {
 }
 
 .banner-top2 {
-    background: url(../images/2.jpg) no-repeat bottom;
+    background: url(../images/back3.jpg) no-repeat bottom;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -577,7 +577,7 @@ a.button-w3ls:hover {
 }
 
 .banner-top3 {
-    background: url(../images/3.jpg) no-repeat bottom;
+    background: url(../images/back2.jpg) no-repeat bottom;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;

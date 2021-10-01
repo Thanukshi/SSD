@@ -106,9 +106,8 @@ class Home extends Component {
               <div className="banner-left-w3">
                 <div className="container">
                   <div className="banner-info_agile_w3ls">
-                    <h5>Only Fresh Burgers</h5>
                     <h3 className="text-da mb-4">
-                      Flame <span>Grilled Burger</span>{" "}
+                       <span>MY GUIDERS</span>{" "}
                     </h3>
                     <p>
                       Sed ut perspiciatis unde omnis iste natus error sit
@@ -122,7 +121,7 @@ class Home extends Component {
                       />
                     </a>
                     <a href="menu.html" className="button-w3ls mt-5 ml-2">
-                      Order Now
+                      Download Now
                       <span
                         className="fa fa-caret-right ml-1"
                         aria-hidden="true"
