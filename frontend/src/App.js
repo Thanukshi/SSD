@@ -2,6 +2,7 @@ import "./App.css";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import Home from "./components/Home";
 
 function App() {
   return (
@@ -18,7 +19,9 @@ function App() {
         pauseOnHover
       />
       <Router>
-        <Switch></Switch>
+        <Switch>
+          <Route path="/" exact component={Home} />
+        </Switch>
       </Router>
     </div>
   );
