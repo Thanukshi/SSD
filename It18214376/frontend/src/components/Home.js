@@ -65,7 +65,7 @@ class Home extends Component {
                           </a>
                         </li>
                         <li>
-                          <a className="drop-text" href="login.html">
+                          <a className="drop-text" href="Login.js">
                             Login
                           </a>
                         </li>
@@ -206,8 +206,7 @@ class Home extends Component {
                     <a href="menu.html">Best Fast Food Collection</a>
                   </h4>
                   <p className="text-li">
-                    Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                    laboris Sed ut perspiciatis unde omnis iste natus error.
+                       information
                   </p>
                   <a href="menu.html" className="button-w3ls active mt-5">
                     Download Now
