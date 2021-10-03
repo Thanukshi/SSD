@@ -133,12 +133,7 @@ class Home extends Component {
             </div>
             <div className="col-xl-7 col-lg-6 callbacks_container">
               <div className="csslider infinity" id="slider1">
-                <input
-                  type="radio"
-                  name="slides"
-                  defaultChecked="checked"
-                  id="slides_1"
-                />
+
                 <input type="radio" name="slides" id="slides_2" />
                 <input type="radio" name="slides" id="slides_3" />
                 <ul className="banner_slide_bg">
