@@ -66,7 +66,7 @@ class Home extends Component {
                         </li>
                         <li>
                           <a className="drop-text" href="login.html">
-
+                            Login
                           </a>
                         </li>
                         <li>
