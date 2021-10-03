@@ -51,7 +51,7 @@ class Home extends Component {
                         </li>
                         <li>
                           <a className="drop-text" href="about.html">
-
+                            Our Chefs
                           </a>
                         </li>
                         <li>
