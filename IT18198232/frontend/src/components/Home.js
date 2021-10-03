@@ -148,7 +148,9 @@ class Home extends Component {
                   <li>
                     <div className="banner-top2" />
                   </li>
-
+                  <li>
+                    <div className="banner-top3" />
+                  </li>
                 </ul>
                 <div className="arrows">
                   <label htmlFor="slides_1" />
