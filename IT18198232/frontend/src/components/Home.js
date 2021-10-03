@@ -86,7 +86,7 @@ class Home extends Component {
                       <a
                         href="https://w3layouts.com/"
                         target="_blank"
-                        className="dwn-  ml-lg-5"
+                        className="dwn-button ml-lg-5"
                       >
                         <span
                           className="fa fa-cloud-download mt-lg-0 mt-4"
