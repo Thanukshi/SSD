@@ -61,7 +61,7 @@ class Home extends Component {
                         </li>
                         <li>
                           <a className="drop-text" href="single.html">
-                            Page
+                            Single Page
                           </a>
                         </li>
                         <li>
