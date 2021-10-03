@@ -125,4 +125,19 @@
      * get authentication URL
      * 
      * */
+     app.get('/getAuthURL',(req,res)=>{
+        const authURL = oAuth2Client.generateAuthUrl({
+            access_type:'offline',
+            scope:ACCESS_SCOPE,
+        });
+        console.log(authURL);
+        return res.send(authURL);
+    });
+    
+    /**
+     * 
+     * get access token
+     * @param access code
+     * 
+     * */
     
