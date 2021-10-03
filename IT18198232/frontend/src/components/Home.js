@@ -17,7 +17,7 @@ class Home extends Component {
                     className="img-fluid"
                     style={{ width: 100 }}
                   />
-                  <span>MY</span> Guiders
+                  <span>MY</span>
                 </a>
               </h1>
               <div className="nav_web-dealingsls">
