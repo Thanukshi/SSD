@@ -178,7 +178,7 @@ class Home extends Component {
                 <div className="title-section mb-4">
                   <p className="w3ls-title-sub">About Us</p>
                   <h3 className="w3ls-title">
-
+                    Welcome to <span>MY GUIDERS</span>
                   </h3>
                 </div>
                 <p className="about-text">
