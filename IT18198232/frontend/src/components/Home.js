@@ -152,11 +152,7 @@ class Home extends Component {
                     <div className="banner-top3" />
                   </li>
                 </ul>
-                <div className="arrows">
-                  <label htmlFor="slides_1" />
-                  <label htmlFor="slides_2" />
-                  <label htmlFor="slides_3" />
-                </div>
+
                 <div className="navigation">
                   <div>
                     <label htmlFor="slides_1" />
