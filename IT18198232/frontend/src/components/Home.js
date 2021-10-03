@@ -189,7 +189,7 @@ class Home extends Component {
                   quia voluptas sit.
                 </p>
                 <a href="about.html" className="button-w3ls mt-5">
-                  Read More
+
                   <span className="fa fa-caret-right ml-1" aria-hidden="true" />
                 </a>
               </div>
