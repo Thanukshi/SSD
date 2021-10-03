@@ -38,7 +38,7 @@ class Home extends Component {
                         {" "}
                         <span className="fa fa-angle-down" aria-hidden="true" />
                       </label>
-                      <a href="# ">
+                      <a href="#pages">
                         Pages{" "}
                         <span className="fa fa-angle-down" aria-hidden="true" />
                       </a>
