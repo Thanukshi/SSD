@@ -115,7 +115,10 @@ class Home extends Component {
                     </p>
                     <a href="about.html" className="button-w3ls active mt-5">
                       Read More
-
+                      <span
+                        className="fa fa-caret-right ml-1"
+                        aria-hidden="true"
+                      />
                     </a>
                     <a href="menu.html" className="button-w3ls mt-5 ml-2">
                       Download Now
