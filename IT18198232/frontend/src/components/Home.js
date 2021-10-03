@@ -42,7 +42,7 @@ class Home extends Component {
                         Pages{" "}
                         <span className="fa fa-angle-down" aria-hidden="true" />
                       </a>
-                      <input type=" " id="drop-3" />
+                      <input type="checkbox" id="drop-3" />
                       <ul>
                         <li>
                           <a className="drop-text" href="#services">
