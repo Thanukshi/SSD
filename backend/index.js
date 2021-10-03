@@ -107,4 +107,22 @@
     * get output as a JSON format
     * 
     * */
-  
+    app.use(bodyParser.urlencoded({extended:false}));
+    app.use(bodyParser.json());
+    app.use(cors());
+    
+    /**
+     * 
+     * get request
+     * 
+     * */
+    app.get('/', (req, res) => {
+      res.send('Back end api running')
+    });
+    
+    /**
+     * 
+     * get authentication URL
+     * 
+     * */
+    
