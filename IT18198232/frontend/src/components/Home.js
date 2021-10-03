@@ -85,7 +85,7 @@ class Home extends Component {
                     <li>
                       <a
                         href="https://w3layouts.com/"
-                        target=" "
+                        target="_blank"
                         className="dwn-button ml-lg-5"
                       >
                         <span
