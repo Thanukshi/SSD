@@ -14,7 +14,7 @@ class Home extends Component {
                   <img
                     src={logo}
                     alt=""
-                    className="img-fluid"
+                    className="img"
                     style={{ width: 100 }}
                   />
                   <span>MY</span> Guiders
