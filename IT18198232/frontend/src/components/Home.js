@@ -10,7 +10,7 @@ class Home extends Component {
           <div className="container">
             <div className="nav-content">
               <h1>
-                <a id="" className="logo" href="/">
+                <a id="logo" className="" href="/">
                   <img
                     src={logo}
                     alt=""
