@@ -10,14 +10,14 @@ class Home extends Component {
           <div className="container">
             <div className="nav-content">
               <h1>
-                <a id="logo" className="" href="/">
+                <a id="logo" className="logo" href="/">
                   <img
                     src={logo}
                     alt=""
                     className="img-fluid"
                     style={{ width: 100 }}
                   />
-                  <span>MY</span>
+                  <span>MY</span> Guiders
                 </a>
               </h1>
               <div className="nav_web-dealingsls">
