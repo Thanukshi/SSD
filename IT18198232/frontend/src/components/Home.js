@@ -142,7 +142,12 @@ class Home extends Component {
                 <input type="radio" name="slides" id="slides_2" />
                 <input type="radio" name="slides" id="slides_3" />
                 <ul className="banner_slide_bg">
-
+                  <li>
+                    <div className="banner-top1" />
+                  </li>
+                  <li>
+                    <div className="banner-top2" />
+                  </li>
                   <li>
                     <div className="banner-top3" />
                   </li>
