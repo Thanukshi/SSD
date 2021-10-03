@@ -114,7 +114,7 @@ class Home extends Component {
                       voluptatem accusantium doloremque laudantium
                     </p>
                     <a href="about.html" className="button-w3ls active mt-5">
-                      Read More
+
                       <span
                         className="fa fa-caret-right ml-1"
                         aria-hidden="true"
