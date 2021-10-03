@@ -100,7 +100,7 @@ class Home extends Component {
             </div>
           </div>
         </div>
-        <div className=" -w3ls">
+        <div className="baneer-w3ls">
           <div className="row no-gutters">
             <div className="col-xl-5 col-lg-6">
               <div className="banner-left-w3">
