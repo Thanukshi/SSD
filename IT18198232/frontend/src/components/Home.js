@@ -121,7 +121,11 @@ class Home extends Component {
                       />
                     </a>
                     <a href="menu.html" className="button-w3ls mt-5 ml-2">
-
+                      Download Now
+                      <span
+                        className="fa fa-caret-right ml-1"
+                        aria-hidden="true"
+                      />
                     </a>
                   </div>
                 </div>
