@@ -49,7 +49,7 @@ class Home extends Component {
                             Services
                           </a>                         
                         </li>
-                        <li>ddddddddd
+                        <li>dddddddd
                     
                           <a className="drop-text" href="about.html">
                             Our Chefs
