@@ -28,7 +28,7 @@ class Home extends Component {
                   <input type="checkbox" id="drop" />
                   <ul className="menu">
                     <li>
-                      <a href="/">Home</a>
+                      <a href="/"></a>
                     </li>
                     <li>
                       <a href="about.html">About Us</a>
