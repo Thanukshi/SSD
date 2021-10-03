@@ -139,8 +139,7 @@ class Home extends Component {
                   defaultChecked="checked"
                   id="slides_1"
                 />
-                <input type="radio" name="slides" id="slides_2" />
-                <input type="radio" name="slides" id="slides_3" />
+
                 <ul className="banner_slide_bg">
                   <li>
                     <div className="banner-top1" />
