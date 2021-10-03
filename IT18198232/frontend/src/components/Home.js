@@ -31,7 +31,7 @@ class Home extends Component {
                       <a href="/">Home</a>
                     </li>
                     <li>
-                      <a href="about.html">About Us</a>
+                      <a href="about.html">  Us</a>
                     </li>
                     <li>
                       <label htmlFor="drop-3" className="toggle toogle-2">
