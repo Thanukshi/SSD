@@ -8,7 +8,7 @@ class Home extends Component {
         <header id="home"></header>
         <div className="main-top py-1">
           <div className="container">
-            <div className="nav-content">
+            <div className="">
               <h1>
                 <a id="logo" className="logo" href="/">
                   <img
