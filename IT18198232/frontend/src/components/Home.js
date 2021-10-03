@@ -20,7 +20,7 @@ class Home extends Component {
                   <span>MY</span> Guiders
                 </a>
               </h1>
-              <div className="-dealingsls">
+              <div className="nav_web-dealingsls">
                 <nav>
                   <label htmlFor="drop" className="toggle">
                     Menu
