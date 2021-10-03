@@ -46,7 +46,7 @@ class Home extends Component {
                       <ul>
                         <li>
                           <a className="drop-text" href="#services">
-                            Services
+
                           </a>
                         </li>
                         <li>
