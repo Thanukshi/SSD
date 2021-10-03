@@ -110,8 +110,7 @@ class Home extends Component {
                       <span>MY GUIDERS</span>{" "}
                     </h3>
                     <p>
-                      Sed ut perspiciatis unde omnis iste natus error sit
-                      voluptatem accusantium doloremque laudantium
+
                     </p>
                     <a href="about.html" className="button-w3ls active mt-5">
                       Read More
