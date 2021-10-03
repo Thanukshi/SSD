@@ -35,10 +35,10 @@ class Home extends Component {
                     </li>
                     <li>
                       <label htmlFor="drop-3" className="toggle toogle-2">
-                        Pages{" "}
+                        {" "}
                         <span className="fa fa-angle-down" aria-hidden="true" />
                       </label>
-                      <a href="#pages">
+                      <a href="# ">
                         Pages{" "}
                         <span className="fa fa-angle-down" aria-hidden="true" />
                       </a>
