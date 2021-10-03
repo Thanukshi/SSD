@@ -90,7 +90,7 @@ class Home extends Component {
                       >
                         <span
                           className="fa fa-cloud-download mt-lg-0 mt-4"
-                          aria-hidden="true"
+                          aria-hidden=" "
                         />
                       </a>
                     </li>
