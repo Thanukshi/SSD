@@ -71,7 +71,7 @@ class Home extends Component {
                         </li>
                         <li>
                           <a className="drop-text" href="register.html">
-
+                            Register
                           </a>
                         </li>
                       </ul>
